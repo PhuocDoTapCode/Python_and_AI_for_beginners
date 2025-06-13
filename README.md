@@ -6,5 +6,12 @@ The repository includes:
 - and more...
 ## 🎯 Objective
 ## 📋 Requirement
+## 📆 Daily Progress
+### Day 1 - Python Conditionals & Activation Function
+**File:** `day01.py`
+- Demonstrates `if-elif-else` conditional structures.
+- Calculates Vietnamese lunar year (Can-Chi).
+- Implements activation functions: ReLU, Leaky ReLU, Sigmoid, Tanh, ELU.
+- Includes unit tests and function demos.
 ## 🛠️ Installation Guide
 ## 🤝 Contributions

@@ -78,6 +78,8 @@ def show_demo():
 
 # Main program
 def main():
+    print("\n\t\t------Start the program------\n")
+    
     print("🔹 Conditional Structure Example:")
     conditional_structure(-5)
     
@@ -90,6 +92,8 @@ def main():
 
     print("\n🔹 Running Unit Tests:")
     run_tests()
+    
+    print("\n\t\t------End the program------\n")
 
 
 if __name__ == "__main__":

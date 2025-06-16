@@ -69,12 +69,12 @@ def main():
     for i, vec in enumerate(bow_vectors):
         print(f"Doc {i+1}: {vec}")
     
-    print(f"\n🔹Bag-of-Words Vectors (Binary-Based): ")
+    print(f"\n🔹Bag-of-Words Vectors (Binary-Base): ")
     bow_vectors = create_bow_vector(corpus, binary=True)
     for i, vec in enumerate(bow_vectors):
         print(f"Doc {i+1}: {vec}")
     
-    print("\n\t\t------End the program")
+    print("\n\t\t------End the program------")
     
 if __name__ == "__main__":
     main()
